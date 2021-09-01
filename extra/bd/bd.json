@@ -1,0 +1,43 @@
+[
+    
+    {
+        "nome" : "Counter-Strike 1.6",
+        "urlImagem" : "https://t.ctcdn.com.br/4_GqWB5ngQV3GVGzVjY_B_LkOG0=/660x0/smart/i371467.jpeg"
+    },
+    {        
+       " nome" : "Quake III Arena",
+        "urlImagem" :" https://t.ctcdn.com.br/6xT_5DzGhtFelSiJJlTgK0Xx9n8=/660x0/smart/i371468.jpeg"
+    },
+    {        
+        "nome" : "Warcraft III",
+       "urlImagem" : "https://uploads.jovemnerd.com.br/wp-content/uploads/2020/01/warcraft-iii-reforged.jpg"
+    },
+    {        
+        "nome" : "Grand Theft Auto San Andreas",
+        "urlImagem" : "https://tecnoblog.net/wp-content/uploads/2019/07/gta-san-andreas-001.jpg"
+    },
+    {        
+        "nome" : "Need for Speed Underground 2",
+        "urlImagem" : "https://1hitgames.com/wp-content/uploads/2019/09/Need-for-Speed-Underground-2-1.jpg"
+    },
+    {        
+       " nome" : "CrossFire",
+        "urlImagem" : "https://z8games.akamaized.net/cfbr/templates/assets/imgs/preview/170118_previewimages_main.jpg"
+    },
+    {       
+       " nome" : "Ragnarök Online",
+        "urlImagem" : "https://t.ctcdn.com.br/s3jWHO2rkgqTyO2dkvpN7I0gKpM=/1024x0/smart/i371469.jpeg"
+    },
+    {        
+       "nome" : "Tibia",
+        "urlImagem" : "https://i.ytimg.com/vi/OpAaLT_PTCU/maxresdefault.jpg"
+    },
+    {       
+        "nome" : "Mu Online",
+        "urlImagem" : "http://mmorpgbr.com.br/wp-content/uploads/2020/08/MU-Online-Slayer-class-image-696x344-1.jpg"
+    },
+    {        
+        "nome" : "Lineage 2",
+        "urlImagem" : "https://www.comboinfinito.com.br/principal/wp-content/uploads/2018/04/Lineage-Revolution.jpg"
+    }
+]
